@@ -1,6 +1,6 @@
 package sample;
 
-public class Sampe {
+public class Sample {
 
 	public void m1()
 	{
